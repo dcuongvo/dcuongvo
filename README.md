@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="David Vo Banner" />
 </p>
 
 <h1 align="center">Hi, I'm David Vo 👋</h1>
