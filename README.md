@@ -1,57 +1,83 @@
-<p align="center">
-</p>
+<div align="center">
 
-<h1 align="center">Hi, I'm David Vo 👋</h1>
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6EC6F5&height=200&section=header&text=David%20Vo&fontSize=60&fontColor=6EC6F5&fontAlignY=38&desc=AI%20Engineer%20·%20Seattle%2C%20WA&descAlignY=60&descSize=20&descColor=ffffff&animation=fadeIn)]()
 
-<p align="center">
-AI Master's Student | RAG Systems | LLM Applications | Cloud & Data Engineering
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6EC6F5&center=true&vCenter=true&width=600&lines=AI+Engineer;RAG+Systems+%7C+LLM+Applications;Vector+Search+%7C+Real-World+AI;Always+Learning+Always+Building" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/cuong-vo/">LinkedIn</a> •
-  <a href="https://github.com/dcuongvo">GitHub</a> •
-  <a href="mailto:dcuongvo@gmail.com">Email</a>
-</p>
+<br/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cuong-vo/)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dcuongvo)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dcuongvo@gmail.com)
 
-### About Me
+<img src="https://komarev.com/ghpvc/?username=dcuongvo&label=Profile+Views&color=6EC6F5&style=flat" />
 
-- I’m currently building AI applications with RAG, vector search, and LLM orchestration  
-- I recently completed a Extern & Pfizer AI Engineering project focused on pharmaceutical document intelligence  
-- I’m working on FinRAG, an AI-powered financial intelligence assistant  
-- Ask me about RAG, LlamaIndex, FAISS, Qdrant, embeddings, and AI project design  
+</div>
 
 ---
 
-### Languages and Tools
+### $ whoami
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,git,github,react,nodejs,postgres,vscode" />
-</p>
+Builder of AI systems that work in the real world.  
+Focused on building accurate, retrieval-grounded AI systems for real-world data.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,linux" />
-</p>
+I'm David Vo — an AI-focused engineer building production-style systems using LLMs, RAG, and vector search.
+
+- MS Artificial Intelligence @ City University of Seattle  
+- Built a RAG-based document intelligence system for pharmaceutical data  
+- Building FinRAG (AI-powered financial intelligence assistant)  
+- Interested in scalable AI systems, MLOps, and cloud deployment  
+- Targeting AI Engineer / ML Intern roles (2026)  
 
 ---
 
-### Featured Projects
+### $ cat current_status.json
 
-#### Pharma RAG System
-RAG-based document intelligence system for pharmaceutical PDFs with OCR fallback, metadata-aware retrieval, reranking, and citation-backed answers.
+```json
+{
+  "building": "RAG systems (LlamaIndex, FAISS, Qdrant)",
+  "learning": "MLOps, scalable AI pipelines, system design",
+  "exploring": "LLM orchestration, retrieval optimization",
+  "goal": "AI Engineer Internship (Summer 2026)",
+  "focus": "Real-world AI systems with strong retrieval and grounding"
+}
+```
 
-#### FinRAG
-AI-powered financial intelligence assistant using Qdrant, Finnhub, embeddings, and configurable LLM providers.
+---
+
+### $ ls ./tech-stack/
+
+AI and LLM Systems  
+Python, PyTorch, Hugging Face, LlamaIndex, FAISS  
+
+Data and Backend  
+SQL, Pandas, FastAPI  
+
+Cloud and DevOps  
+AWS, Docker, GitHub Actions  
+
+---
+
+### $ ls ./projects/
+
+Pharma RAG System  
+- OCR fallback  
+- Metadata-aware retrieval  
+- Cross-encoder reranking  
+- Citation-grounded answers  
+[View Project](https://github.com/dcuongvo/pharma-rag-system)
+
+FinRAG (In Progress)  
+- Real-time news ingestion  
+- Vector search  
+- LLM integration  
+- Retrieval optimization  
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dcuongvo&show_icons=true&theme=tokyonight" />
-</p>
+![stats](https://github-readme-stats.vercel.app/api?username=dcuongvo&show_icons=true&theme=tokyonight)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=dcuongvo&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dcuongvo&theme=tokyonight" />
-</p>
+---
