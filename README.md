@@ -25,7 +25,7 @@ I am an AI-focused engineer building production-style systems using LLMs, RAG, a
 - Seeking AI Engineer and ML Internship opportunities (2026)  
 
 ---
-
+<!--
 ## Skills
 
 ### AI & Machine Learning
@@ -67,3 +67,4 @@ I am an AI-focused engineer building production-style systems using LLMs, RAG, a
 - LLM-based analysis and summarization  
 
 ---
+-->
